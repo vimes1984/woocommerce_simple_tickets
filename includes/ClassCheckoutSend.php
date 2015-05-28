@@ -8,10 +8,7 @@
  * @link      http://buildawebdoctor.com
  * @copyright 5-7-2015 BAWD
  */
- /*
- error_reporting(-1);
- ini_set('display_errors', 'On');
-*/
+
 /**
  * Woo Simple Tickets class.
  *

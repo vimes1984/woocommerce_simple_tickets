@@ -122,7 +122,7 @@ class AddProducttab{
           <p>Supported tags are</p>
             <pre  data-lang="HTML">
             <code>
-                &lt;br&gt; and &lt;p&gt;
+                &lt;br/&gt; and &lt;p&gt;
                   &lt;b&gt;, &lt;i&gt; and &lt;u&gt;
                   &lt;img&gt; (src and width (or height) are mandatory)
                   &lt;a&gt; (href is mandatory)

@@ -29,7 +29,7 @@
       * @access public
       * @param mixed $product
       */
-     public function __construct( $product ) {
+     public function __construct( $product = array() ) {
 
          $this->virtual         = 'yes';
          $this->downloadable    = 'yes';
