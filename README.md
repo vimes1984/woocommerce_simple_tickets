@@ -2,6 +2,7 @@
 
 This is a plugin designed to sell simple event tickets no frills.
 Just set up a blank pdf set the contents and a ticket with a unique id will be mailed to the customer upon purchase.
+
 # == Installation ==
 
 To set up a ticket you need to:

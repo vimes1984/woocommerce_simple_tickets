@@ -237,8 +237,7 @@ class WooSimpleTickets{
 	 * @since    1.0.0
 	 */
 	public function enqueue_styles() {
-		wp_enqueue_style($this->plugin_slug . "-plugin-styles", plugins_url("css/public.css", __FILE__), array(),
-			$this->version);
+		//wp_enqueue_style($this->plugin_slug . "-plugin-styles", plugins_url("css/public.css", __FILE__), array(), $this->version);
 	}
 
 	/**
@@ -247,8 +246,7 @@ class WooSimpleTickets{
 	 * @since    1.0.0
 	 */
 	public function enqueue_scripts() {
-		wp_enqueue_script($this->plugin_slug . "-plugin-script", plugins_url("js/public.js", __FILE__), array("jquery"),
-			$this->version);
+		//wp_enqueue_script($this->plugin_slug . "-plugin-script", plugins_url("js/public.js", __FILE__), array("jquery"), $this->version);
 	}
 
 	/**
